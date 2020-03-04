@@ -10,8 +10,10 @@
 4. `git log`
 > 查看日志
 ---
-## 暂存区
+## 撤销
 1. `git checkout <!-- filename -->`
 > 将暂存区文件反向覆盖源文件夹
 2. `git rm --cached <!-- filename -->`
 > 删除暂存区文件，终止提交
+3. `git reset --hard commitID`
+> 恢复版本
