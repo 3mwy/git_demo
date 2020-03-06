@@ -29,3 +29,11 @@
 > 合并分支，前提是已经切换至被合并分支
 5. `git branch -d <branchName>` 
 > 删除分支
+## 分支暂存
+1. `git stash`
+> 存
+2. `git stash pop`
+> 取
+
+## github 远程仓库
+1. `git push <respositoryName> <branchName>`
