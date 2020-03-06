@@ -40,3 +40,5 @@
 > 推送到远程仓库
 2. `git remote add <origin/diyName> <remoteURL> ` 
 > 给远端url添加别名，简化步骤1
+3. `git push -u <diyName/remoteURL> <branchName>`
+> -u记住url及分支名称，下次简化步骤1至只需`git push`
