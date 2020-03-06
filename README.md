@@ -37,3 +37,6 @@
 
 ## github 远程仓库
 1. `git push <respositoryName> <branchName>`
+> 推送到远程仓库
+2. `git remote add <origin/diyName> <remoteURL> ` 
+> 给远端url添加别名，简化步骤1
