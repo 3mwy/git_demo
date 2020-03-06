@@ -42,3 +42,6 @@
 > 给远端url添加别名，简化步骤1
 3. `git push -u <diyName/remoteURL> <branchName>`
 > -u记住url及分支名称，下次简化步骤1至只需`git push`
+## 克隆仓库
+- `git clone <remoteURL>`
+> 克隆远端仓库的项目到本地
