@@ -45,3 +45,7 @@
 ## 克隆仓库
 - `git clone <remoteURL>`
 > 克隆远端仓库的项目到本地
+
+## 拉去远程仓库版本
+- `git pull <remoteURL> <branchName>`
+> 更新本地版本
